@@ -1,0 +1,15 @@
+.page__header {
+    margin: 28px 48px 48px;
+}
+
+@media all and (max-width: 768px) {
+    .page__header {
+        margin: 28px 24px 48px 24px;
+    }
+}
+
+@media all and (max-width: 320px) {
+    .page__header {
+        margin: 16px 16px 48px 16px;
+    }
+}

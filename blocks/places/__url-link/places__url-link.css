@@ -1,9 +1,7 @@
 .places__url-link {
-    font-family: 'Inter';
-    font-style: normal;
-    font-weight: 400;
+    color: #fff;
     font-size: 18px;
+    font-weight: 400;
     line-height: 22px;
     text-decoration-line: underline;
-    color: #fff;
 }

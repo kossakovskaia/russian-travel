@@ -1,5 +1,5 @@
 .places__place {
     display: grid;
-    grid-template-rows: repeat(2, 460px);
     grid-template-columns: 152px, 460px;
+    grid-template-rows: repeat(2, 460px);
 }

@@ -1,0 +1,11 @@
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media all and (max-width: 709px) {
+    .footer {
+        flex-direction: column;
+    }
+}

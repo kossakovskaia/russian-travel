@@ -1,8 +1,6 @@
 .cover__background {
-    background-image: url(../../../images/baikal-background.png);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
+    display: block;
     height: 100%;
+    position: relative;
     width: 100%;
 }
