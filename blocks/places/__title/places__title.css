@@ -1,21 +1,22 @@
 .places__title {
     color: #fff;
-    font-size: 72px;
-
+    font-size: 32px;
+    line-height: 35px;
     font-weight: 900;
-    line-height: 76px;
+    margin: 0;
+    padding: 0;
 }
 
-@media all and (max-width: 728px) {
+@media all and (min-width: 728px) {
     .places__title {
         font-size: 42px;
         line-height: 46px;
     }
 }
 
-@media all and (max-width: 320px) {
+@media all and (min-width: 1280px) {
     .places__title {
-        font-size: 32px;
-        line-height: 35px;
+        font-size: 72px;
+        line-height: 76px;
     }
 }

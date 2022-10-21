@@ -1,13 +1,14 @@
 .places__paragraph {
     color: #fff;
-    font-size: 18px;
-
+    font-size: 16px;
     font-weight: 400;
     line-height: 163%;
+    margin: 0;
+    padding: 0;
 }
 
-@media all and (max-width: 728px) {
+@media all and (min-width: 1280px) {
     .places__paragraph {
-        font-size: 16px;
+        font-size: 18px;
     }
 }
