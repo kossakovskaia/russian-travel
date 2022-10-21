@@ -5,6 +5,9 @@
 @import url(../blocks/page/__header/page__header.css);
 @import url(../blocks/page/__footer/page__footer.css);
 @import url(../blocks/page/__lead/page__lead.css);
+@import url(../blocks/page/__cover/page__cover.css);
+@import url(../blocks/page/__intro/page__intro.css);
+@import url(../blocks/page/__sections-wrapper/page__sections-wrapper.css);
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__lang-link/header__lang-link.css);
 @import url(../blocks/header/__lang-link/_state_active/header__lang-link_state_active.css);

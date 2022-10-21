@@ -1,23 +1,2 @@
 .lead {
-    box-sizing: border-box;
-    margin: auto;
-    padding: 0 148px;
-}
-
-@media all and (max-width: 1024px) {
-    .lead {
-        padding: 0 48px;
-    }
-}
-
-@media all and (max-width: 768px) {
-    .lead {
-        padding: 0;
-    }
-}
-
-@media all and (max-width: 320px) {
-    .lead {
-        padding: 0;
-    }
 }

@@ -1,0 +1,21 @@
+.page__cover {
+    margin: 66px 0 0;
+}
+
+@media all and (min-width: 768px) {
+    .page__cover {
+        margin-top: 90px;
+    }
+}
+
+@media all and (min-width: 1024px) {
+    .page__cover {
+        margin-top: 92px;
+    }
+}
+
+@media all and (min-width: 1280px) {
+    .page__cover {
+        margin: 92px 48px 0;
+    }
+}

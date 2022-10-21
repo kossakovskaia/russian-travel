@@ -1,9 +1,21 @@
 .cover__wrapper {
-    margin: 0;
-    padding: 0;
-    text-decoration: none;
+    display: flex;
+    height: 100%;
+    position: relative;
+    width: 100%;
 }
 
-.cover__wrapper:hover {
+.cover__wrapper::before {
+    content: "";
+    z-index: 1;
+    background: transparent;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+.cover__wrapper::before:hover {
     background: #2A2C2F;
 }
