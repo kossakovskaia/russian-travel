@@ -1,6 +1,7 @@
 .header__lang-link {
     margin: 0;
     padding: 0;
+    display: block;
 }
 
 .header__lang-link:first-of-type {
