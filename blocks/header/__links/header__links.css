@@ -2,11 +2,11 @@
     font-size: 18px;
     font-weight: 400;
     line-height: 20px;
+    margin-bottom: 8px;
 }
 
 @media screen and (min-width: 768px) {
-    .header__lang-link {
-        font-size: 24px;
-        line-height: 28px;
+    .header__links {
+        margin-bottom: 6px;
     }
 }
