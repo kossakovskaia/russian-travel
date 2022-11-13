@@ -2,13 +2,13 @@
     margin: 16px 16px 0;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 768px) {
     .page__header {
         margin: 28px 24px 0;
     }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (min-width: 1024px) {
     .page__header {
         margin: 28px 48px 0;
     }
