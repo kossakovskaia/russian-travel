@@ -1,6 +1,6 @@
 .photo-grid {
     display: grid;
-    grid-row-gap: 16px;
+    grid-row-gap: 12px;
     grid-template-columns: 1fr;
     grid-template-rows: repeat(12, 1fr);
 }

@@ -1,0 +1,22 @@
+.page__places {
+    margin-top: 64px;
+}
+
+@media screen and (min-width: 768px) {
+    .page__places {
+        margin: 88px 24px 0;
+    }
+}
+
+@media screen and (min-width: 1024px) {
+    .page__places {
+        margin: 92px 48 0;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .page__places {
+        margin-left: 148px;
+        margin-right: 148px;
+    }
+}
