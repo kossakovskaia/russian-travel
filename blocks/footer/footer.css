@@ -7,5 +7,6 @@
     .footer {
         flex-direction: row;
         justify-content: space-between;
+        max-height: 18px;
     }
 }
