@@ -1,4 +1,4 @@
-.places__paragraph-wrapper {
+.place__paragraph-wrapper {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -6,7 +6,7 @@
 }
 
 @media screen and (min-width: 768px) {
-    .places__paragraph-wrapper {
+    .place__paragraph-wrapper {
         margin-right: 0;
         margin-left: 0;
     }
