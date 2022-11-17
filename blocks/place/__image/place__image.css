@@ -1,27 +1,5 @@
-.places__image {
+.place__image {
     display: block;
-    height: 100%;
     object-fit: cover;
     width: 100%;
-}
-
-@media screen and (min-width: 768px) {
-    .places__image {
-        height: 340px;
-        width: 340px;
-    }
-}
-
-@media screen and (min-width: 1024px) {
-    .places__image {
-        height: 440px;
-        width: 440px;
-    }
-}
-
-@media screen and (min-width: 1280px) {
-    .place__image {
-        height: 460px;
-        width: 460px;
-    }
 }
