@@ -4,13 +4,15 @@
 
 @media screen and (min-width: 768px) {
     .page__intro {
-        margin: 88px 0 0 24px;
+        margin-bottom: 24px;
+        margin-top: 88px;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .page__intro {
-        margin: 92px 0 0 48px;
+        margin-bottom: 48px;
+        margin-top: 92px;
     }
 }
 

@@ -4,12 +4,16 @@
 
 @media screen and (min-width: 768px) {
     .page__photo-grid {
-        margin: 88px 24px 0;
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 88px;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .page__photo-grid {
-        margin: 92px 48px 0;
+        margin-left: 48px;
+        margin-right: 48px;
+        margin-top: 92px;
     }
 }

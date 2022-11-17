@@ -7,6 +7,7 @@
 
 @media screen and (min-width: 768px) {
     .places__paragraph-wrapper {
-        margin: 0;
+        margin-right: 0;
+        margin-left: 0;
     }
 }

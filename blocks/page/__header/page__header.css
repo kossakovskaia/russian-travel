@@ -4,12 +4,15 @@
 
 @media screen and (min-width: 768px) {
     .page__header {
-        margin: 28px 24px 0;
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 28px;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .page__header {
-        margin: 28px 48px 0;
+        margin-left: 48px;
+        margin-right: 48px;
     }
 }
