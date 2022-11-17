@@ -19,6 +19,12 @@
 
 @media screen and (min-width: 1024px) {
     .cover__title {
+        margin-top: 195px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .cover__title {
         margin-top: 245px;
     }
 }

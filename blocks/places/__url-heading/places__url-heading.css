@@ -6,10 +6,3 @@
     margin: 0;
     padding: 0;
 }
-
-@media screen and (min-width: 1024px) {
-    .places__url-heading {
-        font-size: 12px;
-        line-height: 170%;
-    }
-}
