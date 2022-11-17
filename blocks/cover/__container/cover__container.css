@@ -1,15 +1,15 @@
 .cover__container {
+    align-items: center;
     background-image: linear-gradient(rgba(42, 44, 47, .3), rgba(42, 44, 47, .3)), url(../../../images/baikal-background.png);
     background-position: center;
+    background-repeat: no-repeat;
     background-size: 100%;
     color: #fff;
     display: flex;
     flex-direction: column;
-    align-items: center;
     height: 200px;
-    width: 100%;
     text-decoration: none;
-    background-repeat: no-repeat;
+    width: 100%;
 }
 
 @media screen and (min-width: 768px) {
