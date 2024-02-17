@@ -1,16 +1,16 @@
-# Проект: Путешествия по России
+# Project: Traveling around Russia
 
-"Путешествия по России" - второй проект в курсе Веб-разработчик плюс.
+"Traveling around Russia" is the second Web Developer course project.
 
-## Ссылка на проект
+## Project URL
 https://kossakovskaia.github.io/russian-travel/
-## Технологии
+## Technologies
 
-Проект реализован с помощью HTML разметки и CSS стилей.
-В проекте использованы grid и flex для реализации адаптивной верстки.
+The project was implemented using HTML markup and CSS styles.
+The project uses a grid and flex to implement an adaptive layout.
 
-## Обратная связь
-Автор проекта открыт к любым замечаниям и предложениям по улучшению проекта.
+## Feedback
+The author of the project is open to any comments and suggestions for improving the project.
 
-## Лицензия
-Проект реализован с помощью [Яндекс Практикум.](https://practicum.yandex.ru/web-plus/)
+## License
+The project was implemented with the help of [Yandex Praktikum.](https://practicum.yandex.ru/web-plus/)
